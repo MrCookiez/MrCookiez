@@ -15,6 +15,7 @@
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![Firebase](https://img.shields.io/badge/-firebase-red?style=flat-square&logo=firebase)
 ![parse](https://img.shields.io/badge/-parse-blue?style=flat-square&logo=parse)
+![stripe](https://img.shields.io/badge/-stripe-white?style=flat-square&logo=stripe)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <hr />
 
