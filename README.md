@@ -6,17 +6,18 @@
 - 🔗 [Portfolio website](https://www.teovragkos.com)
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![NextJs](https://img.shields.io/badge/-NextJs-silver?style=flat-square&logo=nextjs)
+![NextJs](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=nextjs)
 ![StyledComponents](https://img.shields.io/badge/-styledComponents-black?style=flat-square&logo=styledComponents)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![Firebase](https://img.shields.io/badge/-firebase-red?style=flat-square&logo=firebase)
-![parse](https://img.shields.io/badge/-parse-blue?style=flat-square&logo=parse)
-![stripe](https://img.shields.io/badge/-stripe-white?style=flat-square&logo=stripe)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-black?style=flat-square&logo=apollo-graphql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-white?style=flat-square&logo=graphql)
+![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)
+![Firebase](https://img.shields.io/badge/-firebase-white?style=flat-square&logo=firebase)
+![parse](https://img.shields.io/badge/-parse-white?style=flat-square&logo=parse)
+![MySQL](https://img.shields.io/badge/-mysql-white?style=flat-square&logo=mysql)
+![stripe](https://img.shields.io/badge/-stripe-yellow?style=flat-square&logo=stripe)
+![Git](https://img.shields.io/badge/-Git-silver?style=flat-square&logo=git)
 <hr />
 
 ## 🧮 GH Stats
