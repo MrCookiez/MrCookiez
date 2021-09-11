@@ -1,8 +1,9 @@
-### Hi there 👋, I am MrCookiez 🍪
+### Hi there 👋, I Theodoros Vragkos 🍪
 
-- Theodoros Vragkos (actuall name)
-- Software Engineer with focus on Frontend development
-- [Portfolio website](https://www.teovragkos.com)
+- 👨‍💻 MrCookiez
+- 💼 Software Engineer with focus on Frontend development
+- 📍 Amsterdam, Netherlands 🇳🇱 | Remote 🌐
+- 🔗 [Portfolio website](https://www.teovragkos.com)
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -11,6 +12,8 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+<hr />
 
 ## 🧮 GH Stats
   
@@ -32,6 +35,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<hr />
 
 - 🔭 I’m currently working on a side hassle, a project were you can find art from new artists.
 - 🌱 I’m currently learning blockchain development.
@@ -39,3 +43,5 @@ Here are some ideas to get you started:
 - [Linkedin](https://www.linkedin.com/in/theodoros-vragkos/)
 
 - 💬 Ask me about anything
+
+- 🤔 Curious about AI, Blockchain, Quantum computing, VR/AR, Art/Finance and solutions of real life problems with tech.
