@@ -6,13 +6,16 @@
 - 🔗 [Portfolio website](https://www.teovragkos.com)
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![NextJs](https://img.shields.io/badge/-NextJs-silver?style=flat-square&logo=nextjs)
+![StyledComponents](https://img.shields.io/badge/-styledComponents-black?style=flat-square&logo=styledComponents)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
+![Firebase](https://img.shields.io/badge/-firebase-red?style=flat-square&logo=firebase)
+![parse](https://img.shields.io/badge/-parse-blue?style=flat-square&logo=parse)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
 <hr />
 
 ## 🧮 GH Stats
