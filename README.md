@@ -2,6 +2,7 @@
 
 - Theodoros Vragkos (actuall name)
 - Software Engineer with focus on Frontend development
+- [Portfolio website](https://www.teovragkos.com)
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
