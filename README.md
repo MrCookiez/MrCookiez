@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about anything
 
-- 🤔 Curious about AI, Blockchain, Quantum computing, VR/AR, Art/Finance and solutions of real life problems with tech.
+- 🤔 Curious about AI, Blockchain, Quantum computing, VR/AR, Art, Finance and solutions of real life problems with tech.
