@@ -45,8 +45,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a side hassle, a project were you can find art from new artists.
 - 🌱 I’m currently learning blockchain development.
 - 📫 How to reach me:
-- [Linkedin](https://www.linkedin.com/in/theodoros-vragkos/)
-
+  - [Linkedin](https://www.linkedin.com/in/theodoros-vragkos/)
+  - [Facebook](https://www.facebook.com/thodoris.vragkos/)
+  - theodorosvragkos@gmail.com
 - 💬 Ask me about anything
 
 - 🤔 Curious about AI, Blockchain, Quantum computing, VR/AR, Art, Finance and solutions of real life problems with tech.
