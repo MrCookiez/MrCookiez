@@ -1,9 +1,9 @@
-### Hi there 👋, I am Theodoros Vragkos 🍪
+### Hi there 👋 I am Theodoros Vragkos 🍪
 
 - 👨‍💻 MrCookiez
 - 💼 Software Engineer with focus on Frontend development
 - 📍 Amsterdam, Netherlands 🇳🇱 | Remote 🌐
-- 🔗 [Portfolio website](https://www.teovragkos.com)
+- 🔗  [Portfolio website](https://www.teovragkos.com)
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=nextjs)
