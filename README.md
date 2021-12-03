@@ -1,4 +1,4 @@
-### Hi there 👋, I Theodoros Vragkos 🍪
+### Hi there 👋, I am Theodoros Vragkos 🍪
 
 - 👨‍💻 MrCookiez
 - 💼 Software Engineer with focus on Frontend development
