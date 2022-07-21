@@ -42,8 +42,6 @@ Here are some ideas to get you started:
 -->
 <hr />
 
-- 🔭 I’m currently working on a side hassle, a project were you can find art from new artists.
-- 🌱 I’m currently learning blockchain development.
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/theodoros-vragkos/)
   - [Facebook](https://www.facebook.com/thodoris.vragkos/)
