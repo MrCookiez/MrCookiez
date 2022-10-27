@@ -18,13 +18,13 @@
 ![MySQL](https://img.shields.io/badge/-MySql-white?style=flat-square&logo=mysql)
 ![stripe](https://img.shields.io/badge/-Stripe-yellow?style=flat-square&logo=stripe)
 ![Git](https://img.shields.io/badge/-Git-silver?style=flat-square&logo=git)
-<hr />
+<!-- <hr /> -->
 
-## 🧮 GH Stats
+<!-- ## 🧮 GH Stats -->
   
-[![Theodoros Vragkos github stats](https://github-readme-stats.vercel.app/api?username=mrcookiez&show_icons=true&theme=cobalt&hide_border=true&hide_title=true)](https://github.com/mrcookiez)
+<!-- [![Theodoros Vragkos github stats](https://github-readme-stats.vercel.app/api?username=mrcookiez&show_icons=true&theme=cobalt&hide_border=true&hide_title=true)](https://github.com/mrcookiez)
 
-[![Theodoros Vragkos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrcookiez&layout=compact&theme=cobalt&hide_border=true)](https://github.com/mrcookiez)
+[![Theodoros Vragkos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrcookiez&layout=compact&theme=cobalt&hide_border=true)](https://github.com/mrcookiez) -->
 
 <!--
 **MrCookiez/MrCookiez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,10 +42,11 @@ Here are some ideas to get you started:
 -->
 <hr />
 
+- 💬 Let's talk!
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/theodoros-vragkos/)
   - [Facebook](https://www.facebook.com/thodoris.vragkos/)
   - theodorosvragkos@gmail.com
-- 💬 Ask me about anything
 
-- 🤔 Curious about AI, Blockchain, Quantum computing, VR/AR, Art, Finance and solutions of real life problems with tech.
+
+<!-- - 🤔 Curious about AI, Blockchain, Quantum computing, VR/AR, Art, Finance and  -->
