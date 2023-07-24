@@ -1,11 +1,26 @@
-### Hi there 👋 I am Theodoros Vragkos 🍪
+### Hello there 🖖
 
-- 👨‍💻 MrCookiez
-- 💼 Software Engineer with focus on Frontend development
-- 📍 Amsterdam, Netherlands 🇳🇱 | Remote 🌐
-- 🔗  [Portfolio website](https://www.teovragkos.com)
+- 👨‍💻 Theodoros Vragkos a.k.a. mrcookiez 🍪
+- 🧠 Software Engineer with focus on Frontend development
+- 💼 Currently building the future with **@ContractHero** a Contract Management SaaS
+- 📍 Amsterdam, Netherlands 🇳🇱 | Berlin, Germany 🇩🇪 | Remote 🌐
+- 🔗  Learn more about me at my [website](https://www.teovragkos.com)
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+<br />
+<div>
+  <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
+  <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
+  <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
+  <img height="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png">
+  <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
+  <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704">
+  <img height="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png">
+  <img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png">
+  <img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png">
+  <img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
+</div>
+
+<!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=nextjs)
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-black?style=flat-square&logo=styledComponents)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -18,6 +33,7 @@
 ![MySQL](https://img.shields.io/badge/-MySql-white?style=flat-square&logo=mysql)
 ![stripe](https://img.shields.io/badge/-Stripe-yellow?style=flat-square&logo=stripe)
 ![Git](https://img.shields.io/badge/-Git-silver?style=flat-square&logo=git)
+-->
 <!-- <hr /> -->
 
 <!-- ## 🧮 GH Stats -->
@@ -42,11 +58,10 @@ Here are some ideas to get you started:
 -->
 <hr />
 
-- 💬 Let's talk!
-- 📫 How to reach me:
-  - [Linkedin](https://www.linkedin.com/in/theodoros-vragkos/)
-  - [Facebook](https://www.facebook.com/thodoris.vragkos/)
-  - theodorosvragkos@gmail.com
+- 📬 Let's talk!
+- [Linkedin](https://www.linkedin.com/in/theodoros-vragkos/)
+- [Facebook](https://www.facebook.com/thodoris.vragkos/)
+- theodorosvragkos@gmail.com
 
 
 <!-- - 🤔 Curious about AI, Blockchain, Quantum computing, VR/AR, Art, Finance and  -->
