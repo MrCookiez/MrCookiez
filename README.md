@@ -4,7 +4,7 @@
 - 🧠 Software Engineer with focus on Frontend development
 - 💼 Currently building the future with **@ContractHero**
 - 📍 Amsterdam, Netherlands 🇳🇱 | Berlin, Germany 🇩🇪 | Florina, Greece 🇬🇷 | Remote 🌐
-- 🔗  Learn more about me at my [website](https://www.teovragkos.com)
+- 🔗  Learn more about me at my [website](https://www.theovragkos.com)
 
 <br />
 <div>
