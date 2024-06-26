@@ -1,7 +1,7 @@
 ### Hello there 🖖
 
 - 👨‍💻 Theodoros Vragkos a.k.a. mrcookiez 🍪
-- 🧠 Software Engineer with focus on Frontend development
+- 🧠 Software Engineer with focus on Frontend development and Ui / Ux and generally "how things look and feel"
 - 💼 Currently building the future with **@ContractHero**
 - 📍 Amsterdam, Netherlands 🇳🇱 | Berlin, Germany 🇩🇪 | Florina, Greece 🇬🇷 | Remote 🌐
 - 🔗  Learn more about me at my [website](https://www.theovragkos.com)
