@@ -1,8 +1,9 @@
 ### Hey 🖖
 
+_"Software pieces dancing in a yin yang rythms"_
+
 - 👨‍💻 Theodoros Vragkos a.k.a. mrcookiez 🍪
 - 🧠 Matrix | Sofrtaware Engineer | Frontend Engineer | Ui | Ux | Nodes & Edges
-> "How software pieces dance together in the yin yang picture"
 - 💼 Currently building the future with **@ContractHero**
 - 📍 Amsterdam, Netherlands 🇳🇱 | Berlin, Germany 🇩🇪 | Florina, Greece 🇬🇷 | Remote 🌐
 - 🔗  Learn more about me at my [website](https://www.theovragkos.com)
