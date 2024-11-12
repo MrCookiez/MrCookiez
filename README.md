@@ -3,8 +3,8 @@
 _"Software pieces dancing in a yin yang rythms"_
 
 - 👨‍💻 Theodoros Vragkos a.k.a. mrcookiez 🍪
-- 🧠 Matrix | Sofrtaware Engineer | Frontend Engineer | Ui | Ux | Nodes & Edges
-- 💼 Currently building the future with **@ContractHero**
+- 🧠 Engineer | Frontend | Ui | Ux | Nodes & Edges
+- 💼 Currently working for [ContractHero](https://contracthero.com/)
 - 📍 Amsterdam, Netherlands 🇳🇱 | Berlin, Germany 🇩🇪 | Florina, Greece 🇬🇷 | Remote 🌐
 - 🔗  Learn more about me at my [website](https://www.theovragkos.com)
 
