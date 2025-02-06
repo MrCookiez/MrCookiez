@@ -1,6 +1,6 @@
 ### Hey 🖖
 
-_"Software pieces dancing in a yin yang rythms"_
+_"Software pieces dancing in a yin yang frequencies"_
 
 - 👨‍💻 Theodoros Vragkos a.k.a. mrcookiez 🍪
 - 🧠 Engineer | Frontend | Ui | Ux | Nodes & Edges
