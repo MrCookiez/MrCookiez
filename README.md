@@ -2,7 +2,7 @@
 
 _"Software pieces dancing in a yin yang frequencies"_
 
-- 👨‍💻 Theodoros Vragkos a.k.a. mrcookiez 🍪
+- 👨‍💻 Theodoros Vragkos 🍪
 - 🧠 Engineer | Frontend | Ui | Ux | Nodes & Edges
 - 👨‍🔬 Currently researching and designing some cool systems. No Fluff Just Stuff
 - 📍 Amsterdam, Netherlands 🇳🇱
