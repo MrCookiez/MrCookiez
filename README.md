@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 - 📬 Let's talk!
 - [Linkedin](https://www.linkedin.com/in/theodoros-vragkos/)
 - [Facebook](https://www.facebook.com/thodoris.vragkos/)
-- theodoros.vragkos@onemiracle.gr
+- theodoros.vragkos@onemiracle.nl
 
 
 <!-- - 🤔 Curious about AI, Blockchain, Quantum computing, VR/AR, Art, Finance and  -->
