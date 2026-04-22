@@ -5,7 +5,7 @@ _"Software pieces dancing in a yin yang frequencies"_
 - 👨‍💻 Theodoros Vragkos 🍪
 - 🧠 Engineer | Frontend | Ui | Ux | Nodes & Edges
 - 👨‍🔬 Bridging the gap between "Raw AI Intelligence" and "Human Usability."
-- 💼 DeepDesk
+- 💼 AnywhereNow | DeepDesk
 - 💼 OneMiracle
 - 📍 Netherlands 🇳🇱
 
