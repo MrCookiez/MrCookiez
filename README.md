@@ -30,7 +30,6 @@ _"Software pieces dancing in a yin yang frequencies"_
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-black?style=flat-square&logo=apollo-graphql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-white?style=flat-square&logo=graphql)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)
-![Firebase](https://img.shields.io/badge/-Firebase-white?style=flat-square&logo=firebase)
 ![parse](https://img.shields.io/badge/-Parse-white?style=flat-square&logo=parse)
 ![MySQL](https://img.shields.io/badge/-MySql-white?style=flat-square&logo=mysql)
 ![stripe](https://img.shields.io/badge/-Stripe-yellow?style=flat-square&logo=stripe)
