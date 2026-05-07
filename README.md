@@ -62,6 +62,8 @@ Here are some ideas to get you started:
 -->
 <hr />
 
+Spark ✨ -> Build ◼️ -> Distill ⚗️
+
 - 📬 Let's talk!
 - [Linkedin](https://www.linkedin.com/in/theodoros-vragkos/)
 - [Facebook](https://www.facebook.com/thodoris.vragkos/)
